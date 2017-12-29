@@ -1,0 +1,40 @@
+item.copper_ingot.name=Copper Ingot
+item.tutorial_item.name=Tutorial Item 
+item.silicon.name=Silicon
+item.steel_ingot.name=Steel  Ingot
+item.tutorial_sword.name=Tutorial Sword
+item.tutorial_spade.name=Tutorial Spade
+item.tutorial_hoe.name=Tutorial Hoe
+item.tutorial_axe.name=Tutorial Axe
+item.tutorial_pickaxe.name=Tutorial Pickaxe
+item.mom_sword.name=Mom Sword
+item.aluminum.name=Aluminum
+item.iron_plate.name=Iron Plate
+item.diamond_plate.name=Diamond Plate
+item.wooden_plate.name=Wooden Plate
+item.copper_plate.name=Copper Plate
+item.steel_plate.name=Steel Plate
+item.aluminum_plate.name=Aluminum Plate
+item.silicon_plate.name=Silicon Plate
+item.hammer.name=Hammer
+item.iron_gear.name=Iron Gear
+item.diamond_gear.name=Diamond Gear
+item.steel_gear.name=Steel Gear
+item.lithium_ingot.name=Lithium Ingot
+
+item.naam_voorwerp.name=Naam Voorwerp
+
+tile.copper_block.name=Copper Block
+tile.tutorial_block.name=Tutorial Block
+tile.copper_ore.name=Copper Ore
+tile.silicon_block.name=Silicon Block
+tile.silicon_ore.name=Silicon Ore
+tile.steel_block.name=Steel Block
+tile.aluminum_block.name=Aluminum Block
+tile.aluminum_ore.name=Aluminum Ore
+tile.tutorial_multi_ore.name=Tutorial Multi Ore
+tile.lithium_ore.name=Lithium Ore
+tile.lithium_block.name=Lithium Block
+tile.naam_blok.name=Naam Blok
+
+itemGroup.modnaam=Mod Naam
